@@ -14,37 +14,5 @@
     "tags": ["ai", "compression", "quantization", "google"],
     "date": "2026-04-11",
     "kind": "article"
-  },
-  {
-    "url": "https://example.com/rust-wasm-sandbox",
-    "title": "A deep dive into WASM sandboxing for untrusted code",
-    "summary": "Novel approach using WASM fuel metering and epoch interruption to bound runtime of untrusted code. Worth reading if you're thinking about plugin architectures.",
-    "tags": ["rust", "wasm", "security"],
-    "date": "2026-04-11",
-    "kind": "article"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "title": "How modern TTS models actually work",
-    "summary": "Walkthrough of the architecture behind current SOTA text-to-speech systems, from tokenization to waveform generation.",
-    "tags": ["ai", "audio", "tts"],
-    "date": "2026-04-10",
-    "kind": "youtube",
-    "insights": [
-      "Modern TTS uses two-stage pipelines: text → mel-spectrogram → waveform",
-      "Vocoders like HiFi-GAN are the current bottleneck for real-time synthesis",
-      "Zero-shot voice cloning works from just 3 seconds of reference audio"
-    ],
-    "audio_url": "audio/how-modern-tts-works.mp3",
-    "audio_mode": "summary"
-  },
-  {
-    "url": "https://example.com/lightsail-tricks",
-    "title": "Running multiple apps on a 512MB VPS",
-    "summary": "Practical tips for squeezing performance out of tiny cloud instances. Covers swap tuning, Caddy vs Nginx memory profile, and pm2 cluster mode tradeoffs.",
-    "tags": ["devops", "vps", "caddy"],
-    "date": "2026-04-09",
-    "kind": "article",
-    "note": "Confirms my intuitions about using Caddy over Nginx for low-RAM setups."
   }
 ]
