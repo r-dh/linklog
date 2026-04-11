@@ -3,15 +3,27 @@
     "url": "https://deepmind.google/models/gemma/gemma-4/",
     "title": "Gemma 4",
     "summary": "Google DeepMind's new open model family built on Gemini 3 research, with agentic function calling, multimodal reasoning across audio and vision, and 140-language support — sized for everything from phones to laptops.",
-    "tags": ["ai", "gemma", "google", "llm"],
+    "tags": [
+      "ai",
+      "gemma",
+      "google",
+      "llm"
+    ],
     "date": "2026-04-11",
-    "kind": "article"
+    "kind": "article",
+    "audio_url": "audio/gemma-4.mp3",
+    "audio_mode": "full"
   },
   {
     "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
     "title": "TurboQuant: Redefining AI efficiency with extreme compression",
     "summary": "Google Research's new compression algorithm shrinks high-dimensional vectors used in LLMs and vector search, cutting memory and compute costs without sacrificing accuracy.",
-    "tags": ["ai", "compression", "quantization", "google"],
+    "tags": [
+      "ai",
+      "compression",
+      "quantization",
+      "google"
+    ],
     "date": "2026-04-11",
     "kind": "article"
   }
