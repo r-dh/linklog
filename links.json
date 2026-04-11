@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+    "summary": "Google Research's new compression algorithm shrinks high-dimensional vectors used in LLMs and vector search, cutting memory and compute costs without sacrificing accuracy.",
+    "tags": ["ai", "compression", "quantization", "google"],
+    "date": "2026-04-11",
+    "kind": "article"
+  },
+  {
     "url": "https://example.com/rust-wasm-sandbox",
     "title": "A deep dive into WASM sandboxing for untrusted code",
     "summary": "Novel approach using WASM fuel metering and epoch interruption to bound runtime of untrusted code. Worth reading if you're thinking about plugin architectures.",
