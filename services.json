@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://transcription.r-dh.com",
+    "name": "transcription",
+    "description": "Audio transcription with speakers and timestamps. Bring your own Mistral API key."
+  },
+  {
+    "url": "https://tts.r-dh.com",
+    "name": "tts",
+    "description": "Text-to-speech in the browser. Your data never leaves your device."
+  }
+]
