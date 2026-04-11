@@ -155,13 +155,18 @@ const STYLES = `
     }
 
     .section-label {
+      display: block;
       font-size: 0.7rem;
       font-weight: 600;
       color: #555;
       text-transform: uppercase;
       letter-spacing: 0.08em;
       margin-bottom: 1rem;
+      text-decoration: none;
+      transition: color 0.15s;
     }
+
+    a.section-label:hover { color: #4a9eff; }
 
     .filters {
       display: flex;
@@ -374,7 +379,7 @@ function renderHomePage(entries, services) {
 
   ${renderServices(services)}
 
-  <div class="section-label">Recent links</div>
+  <a class="section-label" href="https://links.r-dh.com">Recent links →</a>
   <div class="feed">
     ${entriesHtml}
   </div>
