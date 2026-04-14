@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://browsergate.eu/",
+    "title": "BrowserGate: LinkedIn Is Illegally Searching Your Computer",
+    "summary": "Investigation documenting how LinkedIn covertly scans users' computers for installed software and transmits the data to its servers and third parties without consent, alleging corporate espionage and regulatory violations.",
+    "tags": ["privacy", "security", "linkedin"],
+    "date": "2026-04-14",
+    "kind": "article"
+  },
+  {
     "url": "https://www.youtube.com/watch?v=N5v2b42i_2g",
     "title": "This Paper Could Change How You Invest",
     "summary": "Ben Felix breaks down Fama and French's 1993 three-factor model paper, which showed that size and value factors alongside market beta explain ~90% of return differences across diversified portfolios — up from ~60% with CAPM alone.",
