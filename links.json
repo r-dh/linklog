@@ -1,5 +1,20 @@
 [
   {
+    "url": "https://www.youtube.com/watch?v=N5v2b42i_2g",
+    "title": "This Paper Could Change How You Invest",
+    "summary": "Ben Felix breaks down Fama and French's 1993 three-factor model paper, which showed that size and value factors alongside market beta explain ~90% of return differences across diversified portfolios — up from ~60% with CAPM alone.",
+    "tags": ["investing", "finance", "research"],
+    "date": "2026-04-14",
+    "kind": "youtube",
+    "insights": [
+      "The Fama-French three-factor model (market + size + value) jumped explanatory power from ~60% to ~93% across 25 test portfolios, leaving near-zero unexplained alpha in most cases.",
+      "Active managers who beat the market usually did so via factor exposure (small caps, value stocks) — replicable cheaply without paying active fees.",
+      "The later five-factor model added profitability (RMW) and investment (CMA), pushing explanatory power toward 95% and becoming the workhorse model in academic finance.",
+      "Dimensional Fund Advisors and Avantis Investors are the main fund companies translating this factor research into purchasable low-cost portfolios.",
+      "> \"The cross-section of average returns on US common stocks shows little relation to the market betas of the Sharpe-Lintner asset pricing model.\" — Fama & French"
+    ]
+  },
+  {
     "url": "https://deepmind.google/models/gemma/gemma-4/",
     "title": "Gemma 4",
     "summary": "Google DeepMind's new open model family built on Gemini 3 research, with agentic function calling, multimodal reasoning across audio and vision, and 140-language support — sized for everything from phones to laptops.",
