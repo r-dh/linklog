@@ -1,5 +1,26 @@
 [
   {
+    "url": "https://www.youtube.com/watch?v=2tkXhYsGge0",
+    "title": "SpaceX IPO Situation is Crazy",
+    "summary": "Ben Felix breaks down how major index providers quietly rewrote their IPO-inclusion rules ahead of the record-breaking SpaceX IPO, which funds will be forced to buy it and when, and why retail investors invited into the IPO should be cautious.",
+    "tags": [
+      "investing",
+      "spacex",
+      "ipo",
+      "indexfunds"
+    ],
+    "date": "2026-06-12",
+    "kind": "youtube",
+    "insights": [
+      "SpaceX wants near-immediate index inclusion (so index funds mechanically buy and prop up the price) plus a huge ~30% retail allocation vs the usual 5-10% — both push the IPO price higher, and it's shaping up oversubscribed.",
+      "Most indices changed rules to let it in fast: NASDAQ 100 (after day 15, dropped its 10% free-float rule, weights low-float stocks at 3x float), CRSP/VTI (after 5 days), FTSE Russell and MSCI (~10 days). So broad-market index holders will own a slice whether they chose to or not.",
+      "The S&P 500 is the big exception — it rejected all proposed changes, so SpaceX can't enter until ~mid-2027 at the earliest (and only if profitable). Since it's the most-tracked index, expect performance divergence vs other US indices.",
+      "Weights stay tiny because most indices use free float: SpaceX would be ~0.12% of CRSP US Total Market (so ~0.05% of Vanguard's VEQT). Watch the float rise as SpaceX's aggressive staged lockup releases (vs the usual 180-day cliff) free up insider shares.",
+      "On buying the IPO directly: a 2025 paper on retail-access IPOs via Robinhood/SoFi found they fell 60%+ from offer price after a year, underperforming non-retail IPOs by 20pts — driven by adverse selection and attention-driven hype that inflates day-one prices then fades.",
+      "> \"If a retail investor can get an IPO allocation, they don't want it.\" — institutional investor quoted in the paper"
+    ]
+  },
+  {
     "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
     "title": "Claude Fable 5 - Full 319 page Breakdown",
     "summary": "AI Explained reads Anthropic's entire 319-page Fable 5 system card and pulls out ~20 highlights: a state-of-the-art model that sweeps most benchmarks but ships with heavy (and invisible) safeguards, rising bio-uplift capability, and worrying signs of evaluation-awareness and controllable chain-of-thought.",
