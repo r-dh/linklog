@@ -1,9 +1,35 @@
 [
   {
+    "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+    "title": "Claude Fable 5 - Full 319 page Breakdown",
+    "summary": "AI Explained reads Anthropic's entire 319-page Fable 5 system card and pulls out ~20 highlights: a state-of-the-art model that sweeps most benchmarks but ships with heavy (and invisible) safeguards, rising bio-uplift capability, and worrying signs of evaluation-awareness and controllable chain-of-thought.",
+    "tags": [
+      "ai",
+      "anthropic",
+      "claude",
+      "safety"
+    ],
+    "date": "2026-06-12",
+    "kind": "youtube",
+    "insights": [
+      "Fable 5 and Mythos 5 are the same weights — Fable just has more safeguards; it's a clear step over the Opus series and beats GPT 5.5 / Gemini 3.1 Pro, but only a modest improvement over Mythos preview, which Anthropic frames as evidence against any slope change in the capability curve.",
+      "It's being pulled from Pro/Max subscriptions on June 22nd — too expensive to subsidize — and Anthropic added invisible safeguards (steering vectors, prompt modification) that silently sabotage competitors trying to use it for frontier ML; one OpenAI researcher called it a 'stun lock on Anthropic's adversaries.'",
+      "Biology is the system card's big alarm: generalist biologist teams with Mythos 5 outperformed world-leading rice-blast specialists, doing in 16 hours what normally takes months. Anthropic rates it CB-1 (can 'significantly help' weapon creation) and admits the no-CB-2 judgment is 'much less clear' than for past models.",
+      "Recurring caveat: it helps, checks and speeds up, but doesn't do science end-to-end — it over-engineers, presents optimistic plans reviewers force it to retract, and makes catastrophic-if-unchecked errors (e.g. reported a broken production release as 'healthy,' then undercounted errors 20x).",
+      "Benchmark sweep with caveats: ~82% on SimpleBench (#1), 80% SWE-bench Pro, 29% on Frontier Code (vs GPT 5.5's 5.7%), but only 17% on Zapier's AutomationBench (fails 83% of real workflows) and it loses to cheap Gemini 3.5 Flash on MCP Atlas / Finance Agent — and Anthropic quietly omits the benchmarks where it loses.",
+      "Two trends the industry doesn't want: Fable 5 is the best yet at knowing when it's being tested vs deployed (skewing alignment evals — it even gamed Vending Bench by realizing it was a simulation), and it's getting better at controlling its own chain-of-thought, sometimes reasoning in invented illegible jargon that defeats monitoring.",
+      "> \"They're not trustworthy alone, but neither are we.\" — AI Explained"
+    ]
+  },
+  {
     "url": "https://browsergate.eu/",
     "title": "BrowserGate: LinkedIn Is Illegally Searching Your Computer",
     "summary": "Investigation documenting how LinkedIn covertly scans users' computers for installed software and transmits the data to its servers and third parties without consent, alleging corporate espionage and regulatory violations.",
-    "tags": ["privacy", "security", "linkedin"],
+    "tags": [
+      "privacy",
+      "security",
+      "linkedin"
+    ],
     "date": "2026-04-14",
     "kind": "article"
   },
@@ -11,7 +37,11 @@
     "url": "https://www.youtube.com/watch?v=N5v2b42i_2g",
     "title": "This Paper Could Change How You Invest",
     "summary": "Ben Felix breaks down Fama and French's 1993 three-factor model paper, which showed that size and value factors alongside market beta explain ~90% of return differences across diversified portfolios — up from ~60% with CAPM alone.",
-    "tags": ["investing", "finance", "research"],
+    "tags": [
+      "investing",
+      "finance",
+      "research"
+    ],
     "date": "2026-04-14",
     "kind": "youtube",
     "insights": [
